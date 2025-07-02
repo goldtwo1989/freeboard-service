@@ -1,1 +1,3 @@
-spring.application.name=seongsubean_freeboard_backend
+spring:
+  application:
+    name: seongsubean_freeboard_backend
