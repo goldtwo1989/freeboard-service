@@ -3,12 +3,9 @@ package com.oopsw.seongsubean_freeboard_backend.vo;
 import lombok.Data;
 
 @Data
-public class ResponseFreeboard {
+public class RequestFreeboardComment {
   private String email;
   private String writer;
 
-  private String title;
-
-
-
+  private String content;
 }
